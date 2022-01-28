@@ -6,7 +6,8 @@ Objective here is to build an application that can effectively detect hands on s
 Also,shredder machine will shut off if hands further crosses border line. This help prevent accidents on shredder machine which in past have caused many 
 operators severe injuries.
 
-https://user-images.githubusercontent.com/58501212/151506706-d2f0160b-5004-4d04-9579-9b1236554e9b.jpg
+![img1](https://user-images.githubusercontent.com/58501212/151506706-d2f0160b-5004-4d04-9579-9b1236554e9b.jpg)
+
 
 
 Data Collection:
